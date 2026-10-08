@@ -1,6 +1,9 @@
-## Hi, I'm Nick 👋
+<div align="center">
 
-Data Science & Business student at Northeastern, looking for a **data / analytics co-op, January–June 2027**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8957e5&height=140&section=header&text=Nick%20Lee&fontColor=ffffff&fontSize=44&fontAlignY=40" alt="Nick Lee" />
 
+### Data Science & Business Administration @ Northeastern University, class of 2029
 
 [LinkedIn](https://www.linkedin.com/in/nicholaslee123/)
+
+</div>
