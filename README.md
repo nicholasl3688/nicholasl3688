@@ -4,6 +4,6 @@
 
 ### Data Science & Business Administration @ Northeastern University, class of 2029
 
-[LinkedIn](https://www.linkedin.com/in/nicholaslee123/)
+[Website](https://nicholasl3688.github.io) · [LinkedIn](https://www.linkedin.com/in/nicholaslee123/)
 
 </div>
